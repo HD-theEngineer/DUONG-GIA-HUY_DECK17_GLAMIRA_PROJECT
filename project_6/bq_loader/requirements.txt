@@ -1,0 +1,3 @@
+google-cloud-bigquery
+cloudevents==1.11.0
+functions_framework

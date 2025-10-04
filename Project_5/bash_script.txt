@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Exit immediately if a command exits with a non-zero status.
+set -e
+
+# Update package list and upgrade existing packages
+echo "Updating system packages..."
+sudo apt-get update
+sudo apt-get upgrade -y
+
+# Install necessary tools
+echo "Installing git, python3-venv, micro, and tmux..."
+sudo apt-get install -y git python3-venv micro tmux
+
+# Clone the project repository
+echo "Cloning the project repository..."
+git clone https://github.com/HD-theEngineer/DUONG-GIA-HUY_DECK17_LV1_Project5.git
+
+# Move and rename the cloned directory
+echo "Renaming the project directory to 'project5'..."
+mv DUONG-GIA-HUY_DECK17_LV1_Project5 project5
+
+# Change to the project directory
+cd project5
+
+# Create a Python virtual environment
+echo "Creating and activating a Python virtual environment..."
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate
+
+# install all required libraries
+pip install -r requirements.txt
+
+echo "VM initialization complete. You are now in the 'project5' directory with the virtual environment activated."
+echo "You can start your work now."
+
+# Keep the shell open after the script finishes, in the new directory.
+# This part is for user convenience and may not work in all environments.
+/bin/bash

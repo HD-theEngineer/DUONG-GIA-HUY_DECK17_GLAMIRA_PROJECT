@@ -1,0 +1,32 @@
+sources:
+  - name: glamira
+    database: angular-vortex-466913-g6
+    schema: glamira_data
+    tables:
+      - name: temp_raw_data
+        columns:
+          - name: _id
+            data_tests:
+              - unique
+              - not_null
+          - name: time_stamp
+            data_tests:
+              - not_null
+      - name: raw_crawl_products
+        columns:
+          - name: product_id
+            data_tests:
+              - relationships:
+                  field: cart_products.product_id
+                  to: ref('temp_raw_data')
+      - name: raw_ip2location
+        columns:
+          - name: ip
+            data_tests:
+              - unique
+              - not_null
+      - name: raw_exchange_rate
+        columns:
+          - name: country_code
+            data_tests:
+              - not_null

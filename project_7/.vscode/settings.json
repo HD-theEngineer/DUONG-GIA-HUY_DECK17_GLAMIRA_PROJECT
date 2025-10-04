@@ -1,0 +1,5 @@
+{
+    "dbt.perspectiveTheme": "Pro Dark",
+    "dbt.lineage.defaultExpansion": 6,
+    "dbt.enableNewLineagePanel": true
+}

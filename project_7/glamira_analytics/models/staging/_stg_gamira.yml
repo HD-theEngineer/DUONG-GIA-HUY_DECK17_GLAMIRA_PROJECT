@@ -1,0 +1,71 @@
+models:
+  - name: stg_glamira__raw_crawl_products
+    description: "Staging table for raw crawl products"
+    columns:
+      - name: product_id
+        description: "Crawled products only"
+        tests:
+          - not_null
+  - name: stg_glamira__temp_raw_data
+    description: "Staging table for raw data of customer activities"
+    columns:
+      - name: _id
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+      - name: time_stamp
+        description: "Indicate time range of this dataset"
+        tests:
+          - not_null
+  - name: stg_glamira__raw_ip2location
+    description: "Staging table for location data"
+    columns:
+      - name: ip
+        tests:
+          - unique
+          - not_null
+      - name: country_short
+        tests:
+          - not_null
+      - name: country_long
+        tests:
+          - not_null
+      - name: region
+        tests:
+          - not_null
+      - name: city
+        tests:
+          - not_null
+  - name: stg_glamira__products.sql
+    description: "Staging table for products"
+    columns:
+      - name: currency
+        data_tests:
+          - relationships:
+              field: symbol
+              to: ref('stg_glamira__raw_exchange_rate')
+  - name: stg_glamira__product_option_alloy
+    description: "Staging table for product alloy options"
+    columns:
+      - name: alloy_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+  - name: stg_glamira__product_option_stone
+    description: "Staging table for product stone options"
+    columns:
+      - name: stone_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+  - name: stg_glamira__product_option
+    description: "Staging table for product options"
+    columns:
+      - name: option_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null

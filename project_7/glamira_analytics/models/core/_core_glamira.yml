@@ -1,0 +1,73 @@
+models:
+  - name: dim_date
+    description: "Dimension table for date"
+    columns:
+      - name: date_key
+        description: "Only date range in the raw activities data"
+        tests:
+          - unique
+          - not_null
+  - name: dim_store
+    description: "Dimension table for store"
+    columns:
+      - name: store_key
+        description: "Store key from raw activities data"
+        tests:
+          - unique
+          - not_null
+  - name: dim_location
+    description: "Dimension table for location"
+    columns:
+      - name: location_key
+        description: "Key hash from country, region and city name"
+        tests:
+          - unique
+          - not_null
+  - name: dim_products
+    description: "Dimension table for location"
+    columns:
+      - name: product_key
+        description: "Keys collected from raw data and crawling"
+        tests:
+          - unique
+          - not_null
+  - name: dim_user
+    description: "Dimension table for user"
+    columns:
+      - name: user_key
+        description: "user key from raw data"
+        tests:
+          - unique
+          - not_null
+  - name: fact_sales_order
+    description: "Dimension table for user"
+    columns:
+      - name: sales_order_key
+        description: "Unique key hash from date_key, location_key, order_key, product_key"
+        tests:
+          - unique
+          - not_null
+  - name: dim_stone
+    description: "Dimension table for stone"
+    columns:
+      - name: stone_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+  - name: dim_alloy
+    description: "Dimension table for alloy"
+    columns:
+      - name: alloy_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+  - name: dim_option
+    description: "Dimension table for option"
+    columns:
+      - name: option_key
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null

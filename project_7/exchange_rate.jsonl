@@ -1,0 +1,225 @@
+{"country_name":"United Arab Emirates","country_code":"AE","currency_symbol":"AED","currency_name":"UAE Dirham","exchange_rate_to_usd":0.2722}
+{"country_name":"Saudi Arabia","country_code":"SA","currency_symbol":"SAR","currency_name":"Saudi Riyal","exchange_rate_to_usd":0.2665}
+{"country_name":"Spain","country_code":"ES","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Canada","country_code":"CA","currency_symbol":"CAD$","currency_name":"Canadian Dollar","exchange_rate_to_usd":0.7305}
+{"country_name":"Argentina","country_code":"AR","currency_symbol":"AR$","currency_name":"Argentine Peso","exchange_rate_to_usd":0.00115}
+{"country_name":"United States of America","country_code":"US","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Global","country_code":"COM","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Static html","country_code":"LOCAL","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Denmark","country_code":"DK","currency_symbol":"DKkr","currency_name":"Danish Krone","exchange_rate_to_usd":0.1432}
+{"country_name":"Norway","country_code":"NO","currency_symbol":"NOkr","currency_name":"Norwegian Krone","exchange_rate_to_usd":0.0934}
+{"country_name":"Thailand","country_code":"TH","currency_symbol":"฿","currency_name":"Thai Baht","exchange_rate_to_usd":0.0272}
+{"country_name":"Malaysia","country_code":"MY","currency_symbol":"RM","currency_name":"Malaysian Ringgit","exchange_rate_to_usd":0.2125}
+{"country_name":"China","country_code":"CN","currency_symbol":"CN￥","currency_name":"Chinese Yuan","exchange_rate_to_usd":0.1378}
+{"country_name":"Angola","country_code":"AO","currency_symbol":"Kz","currency_name":"Angolan Kwanza","exchange_rate_to_usd":0.0012}
+{"country_name":"Austria","country_code":"AT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Slovakia","country_code":"SK","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"New Zealand","country_code":"NZ","currency_symbol":"NZD$","currency_name":"New Zealand Dollar","exchange_rate_to_usd":0.6051}
+{"country_name":"Hungary","country_code":"HU","currency_symbol":"Ft","currency_name":"Hungarian Forint","exchange_rate_to_usd":0.00277}
+{"country_name":"France","country_code":"FR","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Serbia","country_code":"RS","currency_symbol":"din","currency_name":"Serbian Dinar","exchange_rate_to_usd":0.00918}
+{"country_name":"Latvia","country_code":"LV","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Estonia","country_code":"EE","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Romania","country_code":"RO","currency_symbol":"RON","currency_name":"Romanian Leu","exchange_rate_to_usd":0.2163}
+{"country_name":"South Africa","country_code":"ZA","currency_symbol":"ZAR","currency_name":"South African Rand","exchange_rate_to_usd":0.0543}
+{"country_name":"Moldova (the Republic of)","country_code":"MD","currency_symbol":"Lei","currency_name":"Moldovan Leu","exchange_rate_to_usd":0.056}
+{"country_name":"Belgium","country_code":"BE","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Switzerland","country_code":"CH","currency_symbol":"CHF","currency_name":"Swiss Franc","exchange_rate_to_usd":1.1098}
+{"country_name":"Kazakhstan","country_code":"KZ","currency_symbol":"₸","currency_name":"Kazakhstani Tenge","exchange_rate_to_usd":0.0022}
+{"country_name":"Nigeria","country_code":"NG","currency_symbol":"₦","currency_name":"Nigerian Naira","exchange_rate_to_usd":0.00067}
+{"country_name":"Cote D'ivoire","country_code":"CI","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Philippines","country_code":"PH","currency_symbol":"₱","currency_name":"Philippine Peso","exchange_rate_to_usd":0.017}
+{"country_name":"Italy","country_code":"IT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Azerbaijan","country_code":"AZ","currency_symbol":"AZN","currency_name":"Azerbaijani Manat","exchange_rate_to_usd":0.5882}
+{"country_name":"Indonesia","country_code":"ID","currency_symbol":"Rp","currency_name":"Indonesian Rupiah","exchange_rate_to_usd":6.39e-05}
+{"country_name":"Qatar","country_code":"QA","currency_symbol":"QR","currency_name":"Qatari Riyal","exchange_rate_to_usd":0.2746}
+{"country_name":"Turkiye","country_code":"TR","currency_symbol":"₺","currency_name":"Turkish Lira","exchange_rate_to_usd":0.0306}
+{"country_name":"Ethiopia","country_code":"ET","currency_symbol":"Br","currency_name":"Ethiopian Birr","exchange_rate_to_usd":0.0174}
+{"country_name":"Sao Tome and Principe","country_code":"ST","currency_symbol":"Db","currency_name":"São Tomé and Príncipe Dobra","exchange_rate_to_usd":0.000044}
+{"country_name":"Mexico","country_code":"MX","currency_symbol":"MXN","currency_name":"Mexican Peso","exchange_rate_to_usd":0.0558}
+{"country_name":"Japan","country_code":"JP","currency_symbol":"JP￥","currency_name":"Japanese Yen","exchange_rate_to_usd":0.00645}
+{"country_name":"Algeria","country_code":"DZ","currency_symbol":"DA","currency_name":"Algerian Dinar","exchange_rate_to_usd":0.0074}
+{"country_name":"Timor-Leste","country_code":"TL","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Chile","country_code":"CL","currency_symbol":"CLP","currency_name":"Chilean Peso","exchange_rate_to_usd":0.001097}
+{"country_name":"Jordan","country_code":"JO","currency_symbol":"JD","currency_name":"Jordanian Dinar","exchange_rate_to_usd":1.4104}
+{"country_name":"Egypt","country_code":"EG","currency_symbol":"E£","currency_name":"Egyptian Pound","exchange_rate_to_usd":0.0209}
+{"country_name":"Iraq","country_code":"IQ","currency_symbol":"IQD","currency_name":"Iraqi Dinar","exchange_rate_to_usd":0.00076}
+{"country_name":"Bahrain","country_code":"BH","currency_symbol":"BD","currency_name":"Bahraini Dinar","exchange_rate_to_usd":2.6526}
+{"country_name":"Brazil","country_code":"BR","currency_symbol":"R$","currency_name":"Brazilian Real","exchange_rate_to_usd":0.1837}
+{"country_name":"Paraguay","country_code":"PY","currency_symbol":"₲","currency_name":"Paraguayan Guaraní","exchange_rate_to_usd":0.00013}
+{"country_name":"Lithuania","country_code":"LT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Yemen","country_code":"YE","currency_symbol":"﷼","currency_name":"Yemeni Rial","exchange_rate_to_usd":0.004}
+{"country_name":"Peru","country_code":"PE","currency_symbol":"PENS/","currency_name":"Peruvian Sol","exchange_rate_to_usd":0.2642}
+{"country_name":"Viet Nam","country_code":"VN","currency_symbol":"₫","currency_name":"Vietnamese Dong","exchange_rate_to_usd":3.93e-05}
+{"country_name":"Greece","country_code":"GR","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"India","country_code":"IN","currency_symbol":"₹","currency_name":"Indian Rupee","exchange_rate_to_usd":0.012}
+{"country_name":"Andorra","country_code":"AD","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Madagascar","country_code":"MG","currency_symbol":"Ar","currency_name":"Malagasy Ariary","exchange_rate_to_usd":0.00022}
+{"country_name":"Colombia","country_code":"CO","currency_symbol":"COP$","currency_name":"Colombian Peso","exchange_rate_to_usd":0.000257}
+{"country_name":"Venezuela (Bolivarian Republic of)","country_code":"VE","currency_symbol":"Bs.S.","currency_name":"Venezuelan Bolívar Soberano","exchange_rate_to_usd":2.75e-07}
+{"country_name":"Slovenia","country_code":"SI","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Armenia","country_code":"AM","currency_symbol":"֏","currency_name":"Armenian Dram","exchange_rate_to_usd":0.0025}
+{"country_name":"Cuba","country_code":"CU","currency_symbol":"$MN","currency_name":"Cuban Peso","exchange_rate_to_usd":0.0417}
+{"country_name":"Aruba","country_code":"AW","currency_symbol":"ƒ","currency_name":"Aruban Florin","exchange_rate_to_usd":0.5556}
+{"country_name":"Ghana","country_code":"GH","currency_symbol":"₵","currency_name":"Ghanaian Cedi","exchange_rate_to_usd":0.067}
+{"country_name":"Russian Federation","country_code":"RU","currency_symbol":"₽","currency_name":"Russian Ruble","exchange_rate_to_usd":0.011}
+{"country_name":"Honduras","country_code":"HN","currency_symbol":"L","currency_name":"Honduran Lempira","exchange_rate_to_usd":0.0405}
+{"country_name":"Malta","country_code":"MT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Australia","country_code":"AU","currency_symbol":"AU$","currency_name":"Australian Dollar","exchange_rate_to_usd":0.6518}
+{"country_name":"Iceland","country_code":"IS","currency_symbol":"ISKr","currency_name":"Icelandic Króna","exchange_rate_to_usd":0.00713}
+{"country_name":"Greenland","country_code":"GL","currency_symbol":"GLkr.","currency_name":"Danish Krone","exchange_rate_to_usd":0.1432}
+{"country_name":"Portugal","country_code":"PT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Ukraine","country_code":"UA","currency_symbol":"₴","currency_name":"Ukrainian Hryvnia","exchange_rate_to_usd":0.0246}
+{"country_name":"Somalia","country_code":"SO","currency_symbol":"Sh.so.","currency_name":"Somali Shilling","exchange_rate_to_usd":0.0017}
+{"country_name":"Myanmar","country_code":"MM","currency_symbol":"K","currency_name":"Burmese Kyat","exchange_rate_to_usd":0.00028}
+{"country_name":"Pakistan","country_code":"PK","currency_symbol":"₨","currency_name":"Pakistani Rupee","exchange_rate_to_usd":0.0036}
+{"country_name":"Iran (Islamic Republic of)","country_code":"IR","currency_symbol":"﷼","currency_name":"Iranian Rial","exchange_rate_to_usd":2.3e-05}
+{"country_name":"Ecuador","country_code":"EC","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Germany","country_code":"DE","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Nepal","country_code":"NP","currency_symbol":"रू","currency_name":"Nepalese Rupee","exchange_rate_to_usd":0.0075}
+{"country_name":"Mali","country_code":"ML","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Gambia","country_code":"GM","currency_symbol":"D","currency_name":"Gambian Dalasi","exchange_rate_to_usd":0.0148}
+{"country_name":"Montenegro","country_code":"ME","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Mongolia","country_code":"MN","currency_symbol":"₮","currency_name":"Mongolian Tögrög","exchange_rate_to_usd":0.00029}
+{"country_name":"Brunei Darussalam","country_code":"BN","currency_symbol":"B$","currency_name":"Brunei Dollar","exchange_rate_to_usd":0.7335}
+{"country_name":"Belize","country_code":"BZ","currency_symbol":"BZ$","currency_name":"Belize Dollar","exchange_rate_to_usd":0.4975}
+{"country_name":"Tunisia","country_code":"TN","currency_symbol":"DT","currency_name":"Tunisian Dinar","exchange_rate_to_usd":0.3185}
+{"country_name":"Morocco","country_code":"MA","currency_symbol":"DH","currency_name":"Moroccan Dirham","exchange_rate_to_usd":0.1005}
+{"country_name":"Lebanon","country_code":"LB","currency_symbol":"L£","currency_name":"Lebanese Pound","exchange_rate_to_usd":0.000011}
+{"country_name":"Kyrgyzstan","country_code":"KG","currency_symbol":"с","currency_name":"Kyrgystani Som","exchange_rate_to_usd":0.0112}
+{"country_name":"North Macedonia","country_code":"MK","currency_symbol":"ден","currency_name":"Macedonian Denar","exchange_rate_to_usd":0.0175}
+{"country_name":"Croatia","country_code":"HR","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Croatia","country_code":"HR","currency_symbol":"kn","currency_name":"Croatian Kuna","exchange_rate_to_usd":0.16}
+{"country_name":"Bulgaria","country_code":"BG","currency_symbol":"лв","currency_name":"Bulgarian Lev","exchange_rate_to_usd":0.5489}
+{"country_name":"Sweden","country_code":"SE","currency_symbol":"SEKr","currency_name":"Swedish Krona","exchange_rate_to_usd":0.0934}
+{"country_name":"Cabo Verde","country_code":"CV","currency_symbol":"CVE","currency_name":"Cape Verdean Escudo","exchange_rate_to_usd":0.0097}
+{"country_name":"Lao People's Democratic Republic","country_code":"LA","currency_symbol":"₭","currency_name":"Lao Kip","exchange_rate_to_usd":0.000046}
+{"country_name":"Burkina Faso","country_code":"BF","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Congo","country_code":"CG","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Bosnia and Herzegovina","country_code":"BA","currency_symbol":"KM","currency_name":"Bosnia-Herzegovina Convertible Mark","exchange_rate_to_usd":0.5478}
+{"country_name":"Belarus","country_code":"BY","currency_symbol":"Br","currency_name":"Belarusian Ruble","exchange_rate_to_usd":0.305}
+{"country_name":"Burundi","country_code":"BI","currency_symbol":"FBu","currency_name":"Burundian Franc","exchange_rate_to_usd":0.00035}
+{"country_name":"El Salvador","country_code":"SV","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Mozambique","country_code":"MZ","currency_symbol":"MT","currency_name":"Mozambican Metical","exchange_rate_to_usd":0.0157}
+{"country_name":"Puerto Rico","country_code":"PR","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Ireland","country_code":"IE","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Papua New Guinea","country_code":"PG","currency_symbol":"K","currency_name":"Papua New Guinean Kina","exchange_rate_to_usd":0.256}
+{"country_name":"Fiji","country_code":"FJ","currency_symbol":"FJ$","currency_name":"Fijian Dollar","exchange_rate_to_usd":0.444}
+{"country_name":"Botswana","country_code":"BW","currency_symbol":"P","currency_name":"Botswana Pula","exchange_rate_to_usd":0.0718}
+{"country_name":"Zambia","country_code":"ZM","currency_symbol":"ZK","currency_name":"Zambian Kwacha","exchange_rate_to_usd":0.039}
+{"country_name":"South Sudan","country_code":"SS","currency_symbol":"SS£","currency_name":"South Sudanese Pound","exchange_rate_to_usd":0.00076}
+{"country_name":"Sri Lanka","country_code":"LK","currency_symbol":"Rs","currency_name":"Sri Lankan Rupee","exchange_rate_to_usd":0.0033}
+{"country_name":"Cameroon","country_code":"CM","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Trinidad and Tobago","country_code":"TT","currency_symbol":"TT$","currency_name":"Trinidad and Tobago Dollar","exchange_rate_to_usd":0.1475}
+{"country_name":"Taiwan (Province of China)","country_code":"TW","currency_symbol":"TW$","currency_name":"New Taiwan Dollar","exchange_rate_to_usd":0.0308}
+{"country_name":"Bangladesh","country_code":"BD","currency_symbol":"৳","currency_name":"Bangladeshi Taka","exchange_rate_to_usd":0.0085}
+{"country_name":"Panama","country_code":"PA","currency_symbol":"USD","currency_name":"Panamanian Balboa","exchange_rate_to_usd":1}
+{"country_name":"Nicaragua","country_code":"NI","currency_symbol":"C$","currency_name":"Nicaraguan Córdoba","exchange_rate_to_usd":0.027}
+{"country_name":"Barbados","country_code":"BB","currency_symbol":"Bds$","currency_name":"Barbadian Dollar","exchange_rate_to_usd":0.5}
+{"country_name":"San Marino","country_code":"SM","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Guinea","country_code":"GN","currency_symbol":"FG","currency_name":"Guinean Franc","exchange_rate_to_usd":0.00012}
+{"country_name":"Curacao","country_code":"CW","currency_symbol":"ƒ","currency_name":"Netherlands Antillean Guilder","exchange_rate_to_usd":0.557}
+{"country_name":"Senegal","country_code":"SN","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Tanzania, the United Republic of","country_code":"TZ","currency_symbol":"TSh","currency_name":"Tanzanian Shilling","exchange_rate_to_usd":0.00038}
+{"country_name":"Guyana","country_code":"GY","currency_symbol":"G$","currency_name":"Guyanese Dollar","exchange_rate_to_usd":0.0048}
+{"country_name":"Albania","country_code":"AL","currency_symbol":"L","currency_name":"Albanian Lek","exchange_rate_to_usd":0.0106}
+{"country_name":"Syrian Arab Republic","country_code":"SY","currency_symbol":"S£","currency_name":"Syrian Pound","exchange_rate_to_usd":0.000077}
+{"country_name":"Djibouti","country_code":"DJ","currency_symbol":"Fdj","currency_name":"Djiboutian Franc","exchange_rate_to_usd":0.0056}
+{"country_name":"Poland","country_code":"PL","currency_symbol":"zł","currency_name":"Polish Złoty","exchange_rate_to_usd":0.2458}
+{"country_name":"Netherlands (Kingdom of the)","country_code":"NL","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Luxembourg","country_code":"LU","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"United Kingdom of Great Britain and Northern Ireland","country_code":"GB","currency_symbol":"£","currency_name":"Pound Sterling","exchange_rate_to_usd":1.255}
+{"country_name":"Seychelles","country_code":"SC","currency_symbol":"SR","currency_name":"Seychellois Rupee","exchange_rate_to_usd":0.073}
+{"country_name":"Namibia","country_code":"NA","currency_symbol":"N$","currency_name":"Namibian Dollar","exchange_rate_to_usd":0.053}
+{"country_name":"Liechtenstein","country_code":"LI","currency_symbol":"CHF","currency_name":"Swiss Franc","exchange_rate_to_usd":1.1098}
+{"country_name":"Rwanda","country_code":"RW","currency_symbol":"RWF","currency_name":"Rwandan Franc","exchange_rate_to_usd":0.00077}
+{"country_name":"Gabon","country_code":"GA","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Finland","country_code":"FI","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Palestine, State of","country_code":"PS","currency_symbol":"₪","currency_name":"Israeli New Shekel","exchange_rate_to_usd":0.268}
+{"country_name":"Gibraltar","country_code":"GI","currency_symbol":"£","currency_name":"Gibraltar Pound","exchange_rate_to_usd":1.255}
+{"country_name":"Mauritius","country_code":"MU","currency_symbol":"₨","currency_name":"Mauritian Rupee","exchange_rate_to_usd":0.021}
+{"country_name":"Comoros","country_code":"KM","currency_symbol":"CF","currency_name":"Comorian Franc","exchange_rate_to_usd":0.0022}
+{"country_name":"Guadeloupe","country_code":"GP","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Guernsey","country_code":"GG","currency_symbol":"GG£","currency_name":"Guernsey Pound","exchange_rate_to_usd":1.255}
+{"country_name":"French Guiana","country_code":"GF","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Korea (the Republic of)","country_code":"KR","currency_symbol":"₩","currency_name":"South Korean Won","exchange_rate_to_usd":0.00072}
+{"country_name":"Israel","country_code":"IL","currency_symbol":"₪","currency_name":"Israeli New Shekel","exchange_rate_to_usd":0.268}
+{"country_name":"Zimbabwe","country_code":"ZW","currency_symbol":"Z$","currency_name":"Zimbabwean Dollar","exchange_rate_to_usd":0.000074}
+{"country_name":"Congo (the Democratic Republic of the)","country_code":"CD","currency_symbol":"FC","currency_name":"Congolese Franc","exchange_rate_to_usd":0.00035}
+{"country_name":"Eswatini","country_code":"SZ","currency_symbol":"L","currency_name":"Eswatini Lilangeni","exchange_rate_to_usd":0.053}
+{"country_name":"Hong Kong","country_code":"HK","currency_symbol":"HK$","currency_name":"Hong Kong Dollar","exchange_rate_to_usd":0.1278}
+{"country_name":"French Polynesia","country_code":"PF","currency_symbol":"₣","currency_name":"CFP Franc","exchange_rate_to_usd":0.009}
+{"country_name":"Isle of Man","country_code":"IM","currency_symbol":"£","currency_name":"Manx Pound","exchange_rate_to_usd":1.255}
+{"country_name":"Jersey","country_code":"JE","currency_symbol":"£","currency_name":"Jersey Pound","exchange_rate_to_usd":1.255}
+{"country_name":"Czechia","country_code":"CZ","currency_symbol":"Kč","currency_name":"Czech Koruna","exchange_rate_to_usd":0.0436}
+{"country_name":"Kenya","country_code":"KE","currency_symbol":"KSh","currency_name":"Kenyan Shilling","exchange_rate_to_usd":0.0077}
+{"country_name":"Uganda","country_code":"UG","currency_symbol":"USh","currency_name":"Ugandan Shilling","exchange_rate_to_usd":0.00027}
+{"country_name":"Cambodia","country_code":"KH","currency_symbol":"៛","currency_name":"Cambodian Riel","exchange_rate_to_usd":0.00024}
+{"country_name":"Cyprus","country_code":"CY","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Benin","country_code":"BJ","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Mayotte","country_code":"YT","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Jamaica","country_code":"JM","currency_symbol":"J$","currency_name":"Jamaican Dollar","exchange_rate_to_usd":0.0064}
+{"country_name":"Togo","country_code":"TG","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Martinique","country_code":"MQ","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Lesotho","country_code":"LS","currency_symbol":"L","currency_name":"Lesotho Loti","exchange_rate_to_usd":0.053}
+{"country_name":"Oman","country_code":"OM","currency_symbol":"﷼","currency_name":"Omani Rial","exchange_rate_to_usd":2.5974}
+{"country_name":"Monaco","country_code":"MC","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Georgia","country_code":"GE","currency_symbol":"₾","currency_name":"Georgian Lari","exchange_rate_to_usd":0.35}
+{"country_name":"Uzbekistan","country_code":"UZ","currency_symbol":"so'm","currency_name":"Uzbekistan Som","exchange_rate_to_usd":0.000079}
+{"country_name":"Bahamas","country_code":"BS","currency_symbol":"B$","currency_name":"Bahamian Dollar","exchange_rate_to_usd":1}
+{"country_name":"Niger","country_code":"NE","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Haiti","country_code":"HT","currency_symbol":"G","currency_name":"Haitian Gourde","exchange_rate_to_usd":0.0075}
+{"country_name":"Faroe Islands","country_code":"FO","currency_symbol":"FOkr","currency_name":"Faroese Króna","exchange_rate_to_usd":0.1432}
+{"country_name":"Suriname","country_code":"SR","currency_symbol":"SR$","currency_name":"Surinamese Dollar","exchange_rate_to_usd":0.028}
+{"country_name":"New Caledonia","country_code":"NC","currency_symbol":"₣","currency_name":"CFP Franc","exchange_rate_to_usd":0.009}
+{"country_name":"Reunion","country_code":"RE","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Grenada","country_code":"GD","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Saint Martin (French part)","country_code":"MF","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Bhutan","country_code":"BT","currency_symbol":"Nu.","currency_name":"Bhutanese Ngultrum","exchange_rate_to_usd":0.012}
+{"country_name":"Singapore","country_code":"SG","currency_symbol":"SGD$","currency_name":"Singapore Dollar","exchange_rate_to_usd":0.7335}
+{"country_name":"Guam","country_code":"GU","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Libya","country_code":"LY","currency_symbol":"LD","currency_name":"Libyan Dinar","exchange_rate_to_usd":0.206}
+{"country_name":"Turks and Caicos Islands","country_code":"TC","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Sudan","country_code":"SD","currency_symbol":"SD£","currency_name":"Sudanese Pound","exchange_rate_to_usd":0.0017}
+{"country_name":"Nauru","country_code":"NR","currency_symbol":"NR$","currency_name":"Australian Dollar","exchange_rate_to_usd":0.6518}
+{"country_name":"Anguilla","country_code":"AI","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Central African Republic","country_code":"CF","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Malawi","country_code":"MW","currency_symbol":"MK","currency_name":"Malawian Kwacha","exchange_rate_to_usd":0.00057}
+{"country_name":"Bonaire, Sint Eustatius and Saba","country_code":"BQ","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Saint Lucia","country_code":"LC","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Cayman Islands","country_code":"KY","currency_symbol":"CI$","currency_name":"Cayman Islands Dollar","exchange_rate_to_usd":1.2}
+{"country_name":"Tajikistan","country_code":"TJ","currency_symbol":"ЅМ","currency_name":"Tajikistani Somoni","exchange_rate_to_usd":0.0915}
+{"country_name":"Solomon Islands","country_code":"SB","currency_symbol":"SI$","currency_name":"Solomon Islands Dollar","exchange_rate_to_usd":0.118}
+{"country_name":"Bermuda","country_code":"BM","currency_symbol":"$","currency_name":"Bermudian Dollar","exchange_rate_to_usd":1}
+{"country_name":"Afghanistan","country_code":"AF","currency_symbol":"؋","currency_name":"Afghan Afghani","exchange_rate_to_usd":0.014}
+{"country_name":"Macao","country_code":"MO","currency_symbol":"MOP$","currency_name":"Macanese Pataca","exchange_rate_to_usd":0.1238}
+{"country_name":"Aland Islands","country_code":"AX","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Northern Mariana Islands","country_code":"MP","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Mauritania","country_code":"MR","currency_symbol":"UM","currency_name":"Mauritanian Ouguiya","exchange_rate_to_usd":0.0025}
+{"country_name":"Tonga","country_code":"TO","currency_symbol":"T$","currency_name":"Tongan Paʻanga","exchange_rate_to_usd":0.422}
+{"country_name":"Samoa","country_code":"WS","currency_symbol":"WS$","currency_name":"Samoan Tālā","exchange_rate_to_usd":0.358}
+{"country_name":"Holy See","country_code":"VA","currency_symbol":"€","currency_name":"Euro","exchange_rate_to_usd":1.0712}
+{"country_name":"Virgin Islands (British)","country_code":"VG","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Guinea-Bissau","country_code":"GW","currency_symbol":"CFA","currency_name":"West African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Falkland Islands [Malvinas]","country_code":"FK","currency_symbol":"£","currency_name":"Falkland Islands Pound","exchange_rate_to_usd":1.255}
+{"country_name":"Chad","country_code":"TD","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Maldives","country_code":"MV","currency_symbol":".ރ","currency_name":"Maldivian Rufiyaa","exchange_rate_to_usd":0.0648}
+{"country_name":"Liberia","country_code":"LR","currency_symbol":"L$","currency_name":"Liberian Dollar","exchange_rate_to_usd":0.0052}
+{"country_name":"Dominica","country_code":"DM","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Sint Maarten (Dutch part)","country_code":"SX","currency_symbol":"ƒ","currency_name":"Netherlands Antillean Guilder","exchange_rate_to_usd":0.557}
+{"country_name":"Virgin Islands (U.S.)","country_code":"VI","currency_symbol":"$","currency_name":"United States Dollar","exchange_rate_to_usd":1}
+{"country_name":"Sierra Leone","country_code":"SL","currency_symbol":"Le","currency_name":"Sierra Leonean Leone","exchange_rate_to_usd":0.000043}
+{"country_name":"Turkmenistan","country_code":"TM","currency_symbol":"m","currency_name":"Turkmenistan Manat","exchange_rate_to_usd":0.2857}
+{"country_name":"Equatorial Guinea","country_code":"GQ","currency_symbol":"FCFA","currency_name":"Central African CFA franc","exchange_rate_to_usd":0.0016}
+{"country_name":"Cook Islands","country_code":"CK","currency_symbol":"CK$","currency_name":"New Zealand Dollar","exchange_rate_to_usd":0.6051}
+{"country_name":"Antigua and Barbuda","country_code":"AG","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Saint Vincent and The Grenadines","country_code":"VC","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Saint Kitts and Nevis","country_code":"KN","currency_symbol":"EC$","currency_name":"East Caribbean Dollar","exchange_rate_to_usd":0.3704}
+{"country_name":"Vanuatu","country_code":"VU","currency_symbol":"VT","currency_name":"Vanuatu Vatu","exchange_rate_to_usd":0.008}
+{"country_name":"Wallis and Futuna","country_code":"WF","currency_symbol":"₣","currency_name":"CFP Franc","exchange_rate_to_usd":0.009}
+{"country_name":"Dominican Republic","country_code":"DO","currency_symbol":"DOP$","currency_name":"Dominican Peso","exchange_rate_to_usd":0.017}
+{"country_name":"Guatemala","country_code":"GT","currency_symbol":"GTQQ","currency_name":"Guatemalan Quetzal","exchange_rate_to_usd":0.1287}
+{"country_name":"Uruguay","country_code":"UY","currency_symbol":"UYU","currency_name":"Uruguayan Peso","exchange_rate_to_usd":0.0253}
+{"country_name":"Bolivia (Plurinational State of)","country_code":"BO","currency_symbol":"BOBBs","currency_name":"Bolivian Boliviano","exchange_rate_to_usd":0.1444}
+{"country_name":"Costa Rica","country_code":"CR","currency_symbol":"CRC₡","currency_name":"Costa Rican Colón","exchange_rate_to_usd":0.001925}
+{"country_name":"Kuwait","country_code":"KW","currency_symbol":"دك‏","currency_name":"Kuwaiti Dinar","exchange_rate_to_usd":3.255}

@@ -1,0 +1,4 @@
+{"gce_config": {"vm_name": "duongghuy96@glamira_data","zone": "asia-southeast1-a"}}
+{"mongodb_config": {"local_port": 27017,"vm_port": 27072, "db_name": "project-5","collection_name": "summary"}}
+{"export_config": {"file_name": "xp_data", "batch_size": 50000, "monitor_dir": "exported"}}
+{"gcs_config": {"bucket_name": "glamira-dgh", "project_id": "angular-vortex-466913-g6"}}
